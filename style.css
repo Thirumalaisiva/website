@@ -4,7 +4,7 @@
 }
 .main{
     width: 100%;
-    background: linear-gradient(to top,rgb(0,0,0,0.5)50%,rgb(0,0,0,0.5)50%),url(5.jpg);
+    background: linear-gradient(to top,rgb(0,0,0,0.5)50%,rgb(0,0,0,0.5)50%),url(7.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -25,7 +25,7 @@
 .logo{
     color: orange;
     font-size: 35px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:s;
     padding-left: 20px;
     float: left;
     padding-top: 10px;
